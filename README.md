@@ -1,5 +1,37 @@
 
-# Contributing
+# Intelligent Analytics
+
+## Target Audience
+
+- Application developer
+
+## Abstract
+
+Learn real-time analytics without IoT. Enable intelligent conversation in a machine learning-enabled, real-time chat pipeline and apply analytics to visualize customer sentiment in real-time for hospitals to allow guests to chat with one another, and to communicate directly with the concierge. Create a bot that can answer questions and route the user to a live person as desired.
+
+## Azure Services and Related Products
+
+- Azure Cognitive Services
+- Azure Cosmos DB
+- Azure Functions
+- Azure Search
+- Azure Event Hubs
+- Azure App Services
+- Azure Service Bus
+- Azure Storage
+- Azure Stream Analytics
+- Microsoft Bot Framework
+- Power BI
+
+## Azure Solution
+
+- Name the solution(s) that this workshop is aligned with
+
+## Related References
+
+[MCW](https://github.com/Microsoft/MCW)
+
+## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
@@ -13,7 +45,7 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
-# Legal Notices
+## Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License](https://creativecommons.org/licenses/by/4.0/legalcode),
