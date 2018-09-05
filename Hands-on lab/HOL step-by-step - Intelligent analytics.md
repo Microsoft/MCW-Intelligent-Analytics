@@ -1248,7 +1248,7 @@ In this task, you will add code that enables the Event Processor to invoke the T
 
 In this task, you will create a LUIS app, publish it, and then enable the Event Processor to invoke LUIS using the REST API.
 
-1. Using a browser, navigate to <http://www.luis.ai>
+1. Using a browser, navigate to <http://www.luis.ai>. **Note**: If in Exercise 1, Step 12 you created your Luis account in Azure in an European region (e.g. West Europe), user <http://eu.luis.ai> instead. If you selected an Australian region use <http://au.luis.ai>.
 
 2. Select **Sign in** **or create an account**
 
